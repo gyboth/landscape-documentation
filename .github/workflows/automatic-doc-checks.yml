@@ -1,4 +1,4 @@
-#
+#[![Automatic doc checks](https://github.com/canonical/landscape-documentation/actions/workflows/automatic-doc-checks.yml/badge.svg)](https://github.com/canonical/landscape-documentation/actions/workflows/automatic-doc-checks.yml)
 name: Automatic doc checks
 
 on:
